@@ -1,30 +1,35 @@
-📦 Sistema de Controle de Estoque – EletroTech
 
-O Sistema de Controle de Estoque – EletroTech é uma aplicação web desenvolvida para gerenciar de forma simples e eficiente produtos, fornecedores, categorias e movimentações de estoque de uma loja de eletrônicos.
-O sistema permite controle total das informações, oferecendo operações completas de CRUD e acompanhamento de entradas e saídas.
+📦 Sistema de Controle de Estoque — EletroTech
+O EletroTech é um sistema web desenvolvido para gerenciar produtos, fornecedores, categorias e movimentações de estoque em lojas de eletrônicos.
+O projeto foi construído com foco em simplicidade, organização e na prática dos conceitos estudados em sala de aula, incluindo CRUD completo, modelagem de banco de dados e uso obrigatório de GitHub no processo avaliativo.
 
-🚀 Funcionalidades
+🚀 Funcionalidades do Sistema
 
 🔹 Fornecedores
 
-◉Cadastrar novos fornecedores
-◉Listar todos os fornecedores em ordem alfabética
-◉Editar informações de fornecedores
-◉Excluir registros
+Cadastrar fornecedores
+
+Listar todos os fornecedores
+
+Editar informações
+
+Excluir registros
 
 🔹 Categorias
 
-Cadastro de categorias de produtos
+Adicionar novas categorias
 
-Listagem organizada
+Exibir categorias cadastradas
 
-Atualização de categorias
+Atualizar dados
 
-Remoção de registros
+Excluir categorias
 
 🔹 Produtos
 
-Cadastrar produtos vinculados a fornecedores e categorias
+Registrar novos produtos
+
+Relacionar produtos com fornecedores e categorias
 
 Listar produtos cadastrados
 
@@ -34,30 +39,10 @@ Excluir produtos
 
 🔹 Movimentação de Estoque
 
-Registrar entradas e saídas
+Registrar entrada e saída de produtos
 
-Listar todas as movimentações realizadas
+Listar todas as movimentações
 
-Associação automática ao produto
+Atualizar automaticamente o estoque atual
 
-Atualização do estoque atual
-
-🏗 Estrutura do Sistema
-
-Interface simples e objetiva
-
-Formulários padronizados
-
-Tabelas para visualização de dados
-
-Banco de dados relacional com chaves estrangeiras
-
-CSS global para padronização visual
-
-Organização clara dos módulos em pastas separadas
-
-🛠 Tecnologias Utilizadas
-
-PHP
-MySQL
-Git/GitHub 
+Histórico completo de alterações
