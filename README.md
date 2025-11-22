@@ -7,15 +7,21 @@ O sistema permite controle total das informações, oferecendo operações compl
 🔹 Fornecedores
 
 Cadastrar novos fornecedores
+
 Listar todos os fornecedores em ordem alfabética
+
 Editar informações de fornecedores
+
 Excluir registros
 
 🔹 Categorias
 
 Cadastro de categorias de produtos
+
 Listagem organizada
+
 Atualização de categorias
+
 Remoção de registros
 
 🔹 Produtos
