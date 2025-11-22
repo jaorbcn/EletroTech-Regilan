@@ -3,6 +3,7 @@ O Sistema de Controle de Estoque – EletroTech é uma aplicação web desenvolv
 O sistema permite controle total das informações, oferecendo operações completas de CRUD e acompanhamento de entradas e saídas.
 
 🚀 Funcionalidades
+
 🔹 Fornecedores
 Cadastrar novos fornecedores
 Listar todos os fornecedores em ordem alfabética
@@ -28,6 +29,7 @@ Associação automática ao produto
 Atualização do estoque atual
 
 🏗 Estrutura do Sistema
+
 Interface simples e objetiva
 Formulários padronizados
 Tabelas para visualização de dados
@@ -36,11 +38,13 @@ CSS global para padronização visual
 Organização clara dos módulos em pastas separadas
 
 🛠 Tecnologias Utilizadas
+
 PHP
 MySQL
 Git/GitHub 
 
 📁 Funcionalidades CRUD Implementadas
+
 Módulo	Cadastrar	Listar	Editar	Excluir
 Fornecedores	
 Categorias	
