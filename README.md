@@ -5,24 +5,28 @@ O sistema permite controle total das informações, oferecendo operações compl
 🚀 Funcionalidades
 
 🔹 Fornecedores
+
 Cadastrar novos fornecedores
 Listar todos os fornecedores em ordem alfabética
 Editar informações de fornecedores
 Excluir registros
 
 🔹 Categorias
+
 Cadastro de categorias de produtos
 Listagem organizada
 Atualização de categorias
 Remoção de registros
 
 🔹 Produtos
+
 Cadastrar produtos vinculados a fornecedores e categorias
 Listar produtos cadastrados
 Editar informações
 Excluir produtos
 
 🔹 Movimentação de Estoque
+
 Registrar entradas e saídas
 Listar todas as movimentações realizadas
 Associação automática ao produto
@@ -40,7 +44,9 @@ Organização clara dos módulos em pastas separadas
 🛠 Tecnologias Utilizadas
 
 PHP
+
 MySQL
+
 Git/GitHub 
 
 📁 Funcionalidades CRUD Implementadas
