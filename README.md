@@ -5,14 +5,11 @@ Sistema web para gerenciar produtos, fornecedores, categorias e movimentações 
 🚀 Funcionalidades
 
 Fornecedores: cadastrar, listar, editar e excluir.
-
 Categorias: cadastrar, listar, atualizar e remover.
-
 Produtos: cadastrar, listar, editar e excluir, vinculando fornecedores e categorias.
-
 Movimentação de Estoque: registrar entradas e saídas, atualizar estoque e listar movimentações.
 
- Estrutura do Sistema
+🏗 Estrutura do Sistema
 
 Interface simples e objetiva
 
