@@ -1,31 +1,35 @@
+📦 Sistema de Controle de Estoque – EletroTech
 
-📦 Sistema de Controle de Estoque — EletroTech
-O EletroTech é um sistema web desenvolvido para gerenciar produtos, fornecedores, categorias e movimentações de estoque em lojas de eletrônicos.
-O projeto foi construído com foco em simplicidade, organização e na prática dos conceitos estudados em sala de aula, incluindo CRUD completo, modelagem de banco de dados e uso obrigatório de GitHub no processo avaliativo.
+Sistema web para gerenciar produtos, fornecedores, categorias e movimentações de estoque de uma loja de eletrônicos. Permite operações completas de CRUD e acompanhamento de entradas e saídas.
 
-🚀 Funcionalidades do Sistema
+🚀 Funcionalidades
 
-🔹 Fornecedores
-Cadastrar fornecedores
-Listar todos os fornecedores
-Editar informações
-Excluir registros
+Fornecedores: cadastrar, listar, editar e excluir.
 
-🔹 Categorias
-Adicionar novas categorias
-Exibir categorias cadastradas
-Atualizar dados
-Excluir categorias
+Categorias: cadastrar, listar, atualizar e remover.
 
-🔹 Produtos
-Registrar novos produtos
-Relacionar produtos com fornecedores e categorias
-Listar produtos cadastrados
-Editar informações
-Excluir produtos
+Produtos: cadastrar, listar, editar e excluir, vinculando fornecedores e categorias.
 
-🔹 Movimentação de Estoque
-Registrar entrada e saída de produtos
-Listar todas as movimentações
-Atualizar automaticamente o estoque atual
-Histórico completo de alterações
+Movimentação de Estoque: registrar entradas e saídas, atualizar estoque e listar movimentações.
+
+ Estrutura do Sistema
+
+Interface simples e objetiva
+
+Formulários padronizados
+
+Tabelas para visualização de dados
+
+Banco de dados relacional
+
+CSS global
+
+Organização dos módulos em pastas
+
+🛠 Tecnologias
+
+PHP
+
+MySQL
+
+Git/GitHub
