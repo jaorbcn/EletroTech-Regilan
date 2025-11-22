@@ -8,11 +8,8 @@ O projeto foi construído com foco em simplicidade, organização e na prática 
 🔹 Fornecedores
 
 Cadastrar fornecedores
-
 Listar todos os fornecedores
-
 Editar informações
-
 Excluir registros
 
 🔹 Categorias
