@@ -7,13 +7,13 @@ O sistema permite controle total das informações, oferecendo operações compl
 
 🔹 Fornecedores
 
-Cadastrar novos fornecedores
+◉Cadastrar novos fornecedores
 
-Listar todos os fornecedores em ordem alfabética
+◉Listar todos os fornecedores em ordem alfabética
 
-Editar informações de fornecedores
+◉Editar informações de fornecedores
 
-Excluir registros
+◉Excluir registros
 
 🔹 Categorias
 
